@@ -1,0 +1,19 @@
+.btn-signup {
+	border-radius: 8px;
+	padding: 8px 20px;
+	width: 96px;
+	height: 40px;
+
+	background: #181818;
+
+	font-weight: 450;
+	font-size: 16px;
+	line-height: 150%;
+	color: #fff;
+
+	transition: background .2s ease-in, color .2s ease-in, opacity .2s ease-in;
+}
+
+.btn-signup:hover {
+	opacity: 0.8;
+}
